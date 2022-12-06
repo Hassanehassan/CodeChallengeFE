@@ -1,0 +1,22 @@
+main {
+  margin-top: 5%;
+}
+div.error {
+  text-align: center;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 50px 20px;
+  margin-top: 2%;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 3%;
+}
+
+div.empty {
+  border: 2px solid rgb(17, 54, 122);
+  padding: 10px;
+  border-radius: 50px 20px;
+  margin-top: 2%;
+  margin-left: 35%;
+  margin-right: 35%;
+}
